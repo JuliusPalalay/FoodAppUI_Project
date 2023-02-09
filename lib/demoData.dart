@@ -9,14 +9,14 @@ List<String> demoBigImages = [
 
 List<Map<String, dynamic>> demoMediumCardData = [
   {
-    "name": "Daylight Coffee",
+    "name": "Daylight Coffees",
     "image": "assets/images/medium_1.png",
     "location": "Colarodo, San Francisco",
     "rating": 4.6,
     "delivertTime": 25,
   },
   {
-    "name": "Mario Italiano",
+    "name": "Marios Italiano",
     "image": "assets/images/medium_2.png",
     "location": "Colarodo, San Francisco",
     "rating": 4.3,
