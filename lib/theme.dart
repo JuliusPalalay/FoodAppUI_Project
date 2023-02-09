@@ -6,7 +6,7 @@ ThemeData buildThemeData() {
   return ThemeData(
     primaryColor: kAccentColor,
     scaffoldBackgroundColor: kBgColor,
-    fontFamily: "SF Pro Text",
+    fontFamily: "SF Pro Text ",
     visualDensity: VisualDensity.adaptivePlatformDensity,
   );
 }
