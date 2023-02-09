@@ -66,7 +66,7 @@ class IndicatorDot extends StatelessWidget {
       height: 4,
       width: 8,
       decoration: BoxDecoration(
-        color:  isActive ?  Colors.white : Colors.white38,
+        color:  isActive ?  Colors.white : const Color.fromARGB(97, 197, 196, 196),
         borderRadius: const BorderRadius.all(Radius.circular(12))
       ),
       

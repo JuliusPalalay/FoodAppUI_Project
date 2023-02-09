@@ -51,7 +51,7 @@ class restaurantInfoMediumCard extends StatelessWidget {
               child: DefaultTextStyle(
                 style: const TextStyle(
                   color: Colors.black,
-                  fontSize: 12,
+                  fontSize: 15,
                 ),
                 child: Row(
                   children: [
