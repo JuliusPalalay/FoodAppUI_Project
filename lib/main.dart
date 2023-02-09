@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
     // SizeConfig().init(context);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Food UI Kit',
-      theme: buildThemeData(),
+      title: 'Food UI',
+      theme: buildThemeData( ),
 
       /// On first screen must call [SizeConfig().init(context)]
-      home: HomeScreen(),
+      home: HomeScreen( ),
     );
   }
 }
